@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "codezombiech.gitignore",
+    "EditorConfig.EditorConfig",
+    "redhat.ansible",
+    "redhat.vscode-yaml",
+    "ryu1kn.partial-diff",
+    "yzhang.markdown-all-in-one"
+  ]
+}
